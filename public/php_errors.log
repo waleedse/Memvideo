@@ -1,0 +1,10 @@
+[22-Jan-2021 11:54:39 UTC] PHP Warning:  require(C:\inetpub\wwwroot\Root\public/../vendor/autoload.php): failed to open stream: No such file or directory in C:\inetpub\wwwroot\Root\public\index.php on line 24
+[22-Jan-2021 11:54:39 UTC] PHP Fatal error:  require(): Failed opening required 'C:\inetpub\wwwroot\Root\public/../vendor/autoload.php' (include_path='.;C:\php\pear') in C:\inetpub\wwwroot\Root\public\index.php on line 24
+[22-Jan-2021 11:55:18 UTC] PHP Warning:  require(C:\inetpub\wwwroot\Root\public/../vendor/autoload.php): failed to open stream: No such file or directory in C:\inetpub\wwwroot\Root\public\index.php on line 24
+[22-Jan-2021 11:55:18 UTC] PHP Fatal error:  require(): Failed opening required 'C:\inetpub\wwwroot\Root\public/../vendor/autoload.php' (include_path='.;C:\php\pear') in C:\inetpub\wwwroot\Root\public\index.php on line 24
+[22-Jan-2021 11:55:20 UTC] PHP Warning:  require(C:\inetpub\wwwroot\Root\public/../vendor/autoload.php): failed to open stream: No such file or directory in C:\inetpub\wwwroot\Root\public\index.php on line 24
+[22-Jan-2021 11:55:20 UTC] PHP Fatal error:  require(): Failed opening required 'C:\inetpub\wwwroot\Root\public/../vendor/autoload.php' (include_path='.;C:\php\pear') in C:\inetpub\wwwroot\Root\public\index.php on line 24
+[22-Jan-2021 11:55:23 UTC] PHP Warning:  require(C:\inetpub\wwwroot\Root\public/../vendor/autoload.php): failed to open stream: No such file or directory in C:\inetpub\wwwroot\Root\public\index.php on line 24
+[22-Jan-2021 11:55:23 UTC] PHP Fatal error:  require(): Failed opening required 'C:\inetpub\wwwroot\Root\public/../vendor/autoload.php' (include_path='.;C:\php\pear') in C:\inetpub\wwwroot\Root\public\index.php on line 24
+[22-Jan-2021 11:55:28 UTC] PHP Warning:  require(C:\inetpub\wwwroot\Root\public/../vendor/autoload.php): failed to open stream: No such file or directory in C:\inetpub\wwwroot\Root\public\index.php on line 24
+[22-Jan-2021 11:55:28 UTC] PHP Fatal error:  require(): Failed opening required 'C:\inetpub\wwwroot\Root\public/../vendor/autoload.php' (include_path='.;C:\php\pear') in C:\inetpub\wwwroot\Root\public\index.php on line 24

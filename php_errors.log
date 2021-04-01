@@ -1,0 +1,28 @@
+[22-Jan-2021 11:56:02 UTC] PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+[22-Jan-2021 11:56:03 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'interbase' (tried: ext\interbase (The specified module could not be found.), ext\php_interbase.dll (The specified module could not be found.)) in Unknown on line 0
+[22-Jan-2021 11:56:03 UTC] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[22-Jan-2021 11:56:03 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8_12c' (tried: ext\oci8_12c (The specified module could not be found.), ext\php_oci8_12c.dll (The specified module could not be found.)) in Unknown on line 0
+[22-Jan-2021 11:56:03 UTC] PHP Warning:  Module 'openssl' already loaded in Unknown on line 0
+[22-Jan-2021 11:56:03 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_firebird' (tried: ext\pdo_firebird (The specified module could not be found.), ext\php_pdo_firebird.dll (The specified module could not be found.)) in Unknown on line 0
+[22-Jan-2021 11:56:03 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci' (tried: ext\pdo_oci (The specified module could not be found.), ext\php_pdo_oci.dll (The specified module could not be found.)) in Unknown on line 0
+[22-Jan-2021 11:57:54 UTC] PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+[22-Jan-2021 11:57:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'interbase' (tried: ext\interbase (The specified module could not be found.), ext\php_interbase.dll (The specified module could not be found.)) in Unknown on line 0
+[22-Jan-2021 11:57:55 UTC] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[22-Jan-2021 11:57:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8_12c' (tried: ext\oci8_12c (The specified module could not be found.), ext\php_oci8_12c.dll (The specified module could not be found.)) in Unknown on line 0
+[22-Jan-2021 11:57:55 UTC] PHP Warning:  Module 'openssl' already loaded in Unknown on line 0
+[22-Jan-2021 11:57:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_firebird' (tried: ext\pdo_firebird (The specified module could not be found.), ext\php_pdo_firebird.dll (The specified module could not be found.)) in Unknown on line 0
+[22-Jan-2021 11:57:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci' (tried: ext\pdo_oci (The specified module could not be found.), ext\php_pdo_oci.dll (The specified module could not be found.)) in Unknown on line 0
+[22-Jan-2021 12:00:10 UTC] PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+[22-Jan-2021 12:00:10 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'interbase' (tried: ext\interbase (The specified module could not be found.), ext\php_interbase.dll (The specified module could not be found.)) in Unknown on line 0
+[22-Jan-2021 12:00:10 UTC] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[22-Jan-2021 12:00:10 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8_12c' (tried: ext\oci8_12c (The specified module could not be found.), ext\php_oci8_12c.dll (The specified module could not be found.)) in Unknown on line 0
+[22-Jan-2021 12:00:10 UTC] PHP Warning:  Module 'openssl' already loaded in Unknown on line 0
+[22-Jan-2021 12:00:10 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_firebird' (tried: ext\pdo_firebird (The specified module could not be found.), ext\php_pdo_firebird.dll (The specified module could not be found.)) in Unknown on line 0
+[22-Jan-2021 12:00:10 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci' (tried: ext\pdo_oci (The specified module could not be found.), ext\php_pdo_oci.dll (The specified module could not be found.)) in Unknown on line 0
+[22-Jan-2021 12:00:22 UTC] PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+[22-Jan-2021 12:00:22 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'interbase' (tried: ext\interbase (The specified module could not be found.), ext\php_interbase.dll (The specified module could not be found.)) in Unknown on line 0
+[22-Jan-2021 12:00:22 UTC] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[22-Jan-2021 12:00:22 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8_12c' (tried: ext\oci8_12c (The specified module could not be found.), ext\php_oci8_12c.dll (The specified module could not be found.)) in Unknown on line 0
+[22-Jan-2021 12:00:22 UTC] PHP Warning:  Module 'openssl' already loaded in Unknown on line 0
+[22-Jan-2021 12:00:22 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_firebird' (tried: ext\pdo_firebird (The specified module could not be found.), ext\php_pdo_firebird.dll (The specified module could not be found.)) in Unknown on line 0
+[22-Jan-2021 12:00:22 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci' (tried: ext\pdo_oci (The specified module could not be found.), ext\php_pdo_oci.dll (The specified module could not be found.)) in Unknown on line 0

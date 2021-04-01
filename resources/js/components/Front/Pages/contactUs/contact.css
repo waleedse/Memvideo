@@ -1,0 +1,68 @@
+.contact-section {
+    background-color: white;
+}
+input[type="text"]::placeholder {
+    font-size: 13px;
+  }
+  .formTextArea {
+    background: #fff;
+    background-clip: padding-box;
+    border: 1px solid #C2C2C2;
+    border-radius: 1px;
+    vertical-align: baseline;
+    width: 100%;
+  }
+  .formLabel {
+    font-size: 13px;
+    color: #7D7D7D;
+    font-family: "poppins";
+    font-weight: 400;
+    text-align: left;
+    margin-bottom: 10px;
+  }
+  .contactUsRow {
+    padding: 0 3vw;
+    margin-bottom: 3vw;
+  }
+  .contactText {
+    font-size: 13px;
+    color: #7D7D7D;
+    font-family: "poppins";
+    font-weight: 400;
+    text-align: left;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #E8E8E8;
+  }
+  .contactTitle {
+    font-size: 166.67%;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #000;
+    font-family: "poppins";
+  }
+  .leftInput {
+    float: left;
+    width: 270px;
+  }
+  .btn-submit {
+    border: none !important;
+    overflow: visible;
+    display: inline-block;
+    background: #444;
+    width: auto;
+    margin: 0;
+    cursor: pointer;
+    height: 35px;
+    line-height: 35px;
+    white-space: nowrap;
+    font-size: 100% !important;
+    text-transform: uppercase;
+    font-weight: 400;
+    position: relative;
+    padding: 0 20px !important;
+    color: #fff !important;
+    text-decoration: none !important;
+  }
+  .btn-submit:hover {
+    background-color: rgb(6, 83, 162);
+  }
